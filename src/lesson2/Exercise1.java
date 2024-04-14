@@ -19,7 +19,7 @@ public class Exercise1 {
         System.out.print("Float = "+f+"\n");
         System.out.print("Double = "+g+"\n");
         System.out.print("Char = "+h+"\n");
-        System.out.print("Char = "+h);
+        System.out.print("Char = "+h );
 
     }
 }
