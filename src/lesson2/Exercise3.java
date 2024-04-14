@@ -14,7 +14,7 @@ public class Exercise3 {
 
         boolean a = false;
         boolean b = true;
-        System.out.println("\nЛогическое  И:");
+        System.out.println("\nЛогическое И:");
         System.out.println(a & a);
         System.out.println(a & b);
         System.out.println(b & a);

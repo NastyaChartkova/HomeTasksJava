@@ -12,7 +12,7 @@ public class Exercise1 {
         char h = 'g';
         System.out.println("These are my variables: \n");
         System.out.print("Boolean = "+a+"\n");
-        System.out.print("Byte = "+b+"\n");
+        System.out.print("Byte = "+b+" \n");
         System.out.print("Short = "+c+"\n");
         System.out.print("Int = "+d+"\n");
         System.out.print("Long = "+e+"\n");
