@@ -26,15 +26,10 @@ public class Exercise3 {
         System.out.println(b | a);
         System.out.println(b | b);
 
-        boolean c;
         System.out.println("\nСравнение:");
-        System.out.println(c = a ^ a);
-        System.out.println(c = a ^ b);
-        System.out.println(c= b ^ a);
-        System.out.println(c = b ^ b);
-
-
-
-
+        System.out.println(a ^ a);
+        System.out.println(a ^ b);
+        System.out.println(b ^ a);
+        System.out.println(b ^ b);
     }
 }

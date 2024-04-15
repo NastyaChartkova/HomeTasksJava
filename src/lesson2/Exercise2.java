@@ -6,6 +6,6 @@ public class Exercise2 {
 
         String a = "Hello";
         String b = "world";
-        System.out.println(a+" "+b);
+        System.out.println(a + " " + b);
     }
 }
