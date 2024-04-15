@@ -26,7 +26,7 @@ public class Exercise3 {
         System.out.println(b | a);
         System.out.println(b | b);
 
-        System.out.println("\nСравнение:");
+        System.out.println("\nСравнение: ");
         System.out.println(a ^ a);
         System.out.println(a ^ b);
         System.out.println(b ^ a);

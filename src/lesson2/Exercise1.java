@@ -20,6 +20,5 @@ public class Exercise1 {
         System.out.print("Double = " + g + "\n");
         System.out.print("Char = " + h + "\n");
         System.out.print("Char = " + h );
-
     }
 }
